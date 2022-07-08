@@ -1,4 +1,4 @@
-# Pico thermometer integratoed to nagios 
+# Pico thermometer integrated to nagios 
 
 
 ## Build
