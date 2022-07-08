@@ -30,12 +30,13 @@ make
  ```bash
  sudo cat /dev/ttyACM0
  ```
- 5. in anoter terminal echo an 'i' to get the internal sensor value
+ 5. in another terminal echo an 'i' to get the internal sensor value
  ```bash
  sudo su
  echo i > /dev/ttyACM0
  ```
  6. You can see the return value on the first terminal
+ 7. tester.py shows how to use from python
 
  <img src="https://raw.github.com/jsheperd/pico_nagios_thermo/main/img/read_bash.png" width="200" height="200" />
 
