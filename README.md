@@ -4,7 +4,7 @@
 ## Build
 
 ```bash
-git submodule --init --recursive
+git submodule update --init
 mkdir build
 cd build
 cmake ..
