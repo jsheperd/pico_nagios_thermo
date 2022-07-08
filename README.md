@@ -19,7 +19,7 @@ make
  4. release the button
  5. copy the .uf2 to the device.
 
- ![](https://github.com/jsheperd/pico_nagios_thermo/tree/main/img/hardware.jpg =200x200)
+ <img src="https://github.com/jsheperd/pico_nagios_thermo/tree/main/img/hardware.jpg?raw=true" width="200" height="200" />
 
 ## Use it
 
