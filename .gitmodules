@@ -1,0 +1,6 @@
+[submodule "pico-onewire"]
+	path = pico-onewire
+	url = https://github.com/adamboardman/pico-onewire
+[submodule "pico-sdk"]
+	path = pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git

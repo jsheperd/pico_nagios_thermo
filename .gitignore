@@ -1,0 +1,12 @@
+# Ignore everything
+/build
+/*
+
+# Files
+!/*.cpp
+!/*.py
+!/*.rules
+!/.gitignore
+!/.gitmodules
+!/CMakeLists.txt
+!/readme.md

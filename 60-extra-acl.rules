@@ -1,0 +1,2 @@
+# /etc/udev/rules.d/60-extra-acl.rules
+ACTION=="add", KERNEL=="ttyACM*", OWNER="nagios", GROUP="nagios"
