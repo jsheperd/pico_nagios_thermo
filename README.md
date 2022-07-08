@@ -19,7 +19,7 @@ make
  4. release the button
  5. copy the .uf2 to the device.
 
- <img src="https://github.com/jsheperd/pico_nagios_thermo/tree/main/img/hardware.jpg?raw=true" width="200" height="200" />
+ <img src="https://raw.github.com/jsheperd/pico_nagios_thermo/main/img/hardware.jpg" width="200" height="200" />
 
 ## Use it
 
@@ -37,4 +37,4 @@ make
  ```
  6. You can see the return value on the first terminal
 
- ![](https://github.com/jsheperd/pico_nagios_thermo/tree/main/img/read_bash.png =200x200)
+ <img src="https://raw.github.com/jsheperd/pico_nagios_thermo/main/img/read_bash.png" width="200" height="200" />
