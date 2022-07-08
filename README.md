@@ -38,3 +38,20 @@ make
  6. You can see the return value on the first terminal
 
  <img src="https://raw.github.com/jsheperd/pico_nagios_thermo/main/img/read_bash.png" width="200" height="200" />
+
+## Nagios
+
+As nagios checks run under the nagios user, we should make the sensor readable for nagios.
+
+```bash
+chown nagios:nagios /dev/ttyACM0
+```
+
+We can make it permanent after reconnect.
+
+```bash
+cp 60-extra-acl.rules /etc/udev/rules.d
+```
+
+
+
